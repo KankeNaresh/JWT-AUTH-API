@@ -40,8 +40,8 @@ Postman
 => POST: http://localhost:5000/api/auth/login
 *BODY
 {
-  "email":"rajkumar@gmail.com",
-  "password":"rajkumar123"
+  "email":"naresh@gmail.com",
+  "password":"naresh123"
 }
 
 => GET : http://localhost:5000/api/auth/userinfo
